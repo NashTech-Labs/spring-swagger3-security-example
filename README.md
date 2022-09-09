@@ -7,4 +7,4 @@ Download the project and import the maven project in Intellij. Start the project
 
 * If we go to http://localhost:8080/swagger-ui/index.html#/ we see the following:-
 
-![image](https://user-images.githubusercontent.com/88486204/189455737-2c1139e2-4cfe-4a93-b411-813442d18960.png)
+![image](https://i.postimg.cc/BbjdvVjy/Screenshot-from-2022-09-10-04-25-18.png)
