@@ -2,7 +2,7 @@
 spring security configure with swagger-ui
 
 ## Lets Begin
-* We will be modifying the Spring Boot + Swagger 3 (OpenAPI 3) Hello World Example project we had implemented in the previous tutorial.
+* We  Created the Spring Boot + Swagger 3 (OpenAPI 3) "spring-swagger3-security-Example" to implement Basic Authentication spring security.
 Download the project and import the maven project in Intellij. Start the project. 
 
 * If we go to http://localhost:8080/swagger-ui/index.html#/ we see the following:-
